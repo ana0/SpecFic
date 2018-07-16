@@ -8,13 +8,13 @@
 
 **Jane:** A  bird just flew through the window
 
-**Sandy:** Was it a pidgeon?
+**Sandy:** Was it a pigeon?
 
-**Jane:** Yeah! And you'll never beleive what it had with it
+**Jane:** Yeah! And you'll never believe what it had with it
 
 **Sandy:** Was it an sd card?
 
-**Jane:** What? How did you know?
+**Jane:** What? How did you know
 
 **Sandy:** It's from Rebecca
 
@@ -56,7 +56,7 @@
 
 **Jane:** What's an aviary?
 
-**Sandy:** It's where they keep the pidgeons. Rebecca's town has been experimenting an interspecies DIWO network ... but it looks like they've been infiltrated by government pidgeons
+**Sandy:** It's where they keep the pigeons. Rebecca's town has been experimenting an interspecies DIWO network ... but it looks like they've been infiltrated by government pigeons
 
 **Jane:** What are they gonna do?
 
@@ -66,7 +66,7 @@
 
 **Sandy:** shh, I'm thinking
 
-**Jane:** but .. can we talk about the pidgeon?
+**Jane:** but .. can we talk about the pigeon?
 
 **Sandy:** What? Why
 
