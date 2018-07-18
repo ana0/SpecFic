@@ -56,7 +56,7 @@
 
 **Jane:** What's an aviary?
 
-**Sandy:** It's where they keep the pigeons. Rebecca's town has been experimenting an interspecies DIWO network ... but it looks like they've been infiltrated by government pigeons
+**Sandy:** It's where they keep the pigeons. Rebecca's town has been experimenting with an interspecies DIWO network ... but it looks like they've been infiltrated by government pigeons
 
 **Jane:** What are they gonna do?
 
